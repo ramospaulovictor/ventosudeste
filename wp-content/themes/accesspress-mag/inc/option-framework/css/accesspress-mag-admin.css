@@ -1,0 +1,93 @@
+.pro-tmp-msg {
+    background: none repeat scroll 0 0 #ccc;
+    color: #111;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    width: 67px;
+}
+.radio-post-template-wrapper {
+    margin-right: 40px !important;
+    position: relative;
+    width: 127px;
+    text-align: center; 
+}
+.single-source-field .field-label {
+    display: inline-block;
+    padding-left: 10px;
+    width: 150px;
+}
+.section-input .post-videourl {
+    width: 690px;
+}
+.audiourl-sec input[type="text"] {
+  width: 690px;
+}
+.apmag-themeoption .option .controls a.wp-color-result{
+    padding: 0 0 0 30px;
+}
+.iris-palette-container a{
+    padding: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.promo-banner h3 {
+  background: #4C4A4A;
+  color: #FFF;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  width: 14.5%;
+  float: right;
+}
+
+.view-features h3{
+    cursor: pointer;
+}
+
+/*User stick note*/
+.user_sticky_note {
+  padding: 0px 10px 15px;
+  background: #EEE;
+  border-bottom: 1px solid #EEE;
+}
+
+h3.sticky_title {
+  font-size: 22px !important;
+  margin-top: 12px;
+  margin-bottom: 11px;
+}
+
+span.sticky_info_row {
+  display: block;
+  line-height: 23px;
+}
+
+label.row-element {
+  font-weight: bold;
+}
+
+.upgrade-pro{
+   background-color: #e24545;
+   color: #FFF !important;
+   font-size: 12px;
+   padding: 5px;
+   line-height: 1;
+   display: block;
+   margin-top: 6px;
+   text-align: center;
+}
+
+.sticky_info_row .button{
+   width: 100%;
+   margin: 2px 0;
+   text-align: center;
+}
+
+#customize-control-theme_info_more_theme span,
+#customize-control-theme_info_pro_theme span,
+#customize-control-theme_info_useful_plugins span{
+ width: 100%;
+ display: block;
+ text-align: center;
+}
